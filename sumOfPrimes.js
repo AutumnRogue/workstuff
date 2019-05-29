@@ -12,7 +12,7 @@ isPrime = (num) => {
 sumPrime = (num) => {
 for(j=0;j<num;j++){
     if(isPrime(j)){
-        finalN = finalN + j
+        finalN += j
         console.log(finalN)
     }
 }

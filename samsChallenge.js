@@ -17,3 +17,4 @@ sum = (str) => {
 
 console.log(sum(str))
 
+
